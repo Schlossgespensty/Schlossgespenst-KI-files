@@ -1,0 +1,7 @@
+config-sparse:
+  modules:
+    aiSwapper:
+      config: {}
+  plugins: {}
+meta:
+  version: 1.0.0
