@@ -1,3 +1,5 @@
-# Schlossgespenst KIs  
-Zwölf neue KIs, um für ein wenig Abwechslung zu sorgen. Sechs davon Interpretationen von bekannten und weniger bekannten Historischen Figuren wie Jeanne d'Arc oder Kilitsch Arslan, vier ohne bestimmtes Vorbild, Lord Woolsack und das Schlossgespenst.
+# Schlossgespenst AIs  
+Twelve new AIs, to mix things up a bit. Seven are interpretations of historical figures like Jeanne d'Arc or Kilij Arslan, some of them well known, some not so much, three generic ones, like a Bandit and to top it off, Lord Woolsack from Stronghold 1 and the Schlossgespenst.
+
+Here in my preferred configuration.
 
