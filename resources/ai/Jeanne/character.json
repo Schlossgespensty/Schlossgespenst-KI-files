@@ -71,7 +71,7 @@
 				"MaxStone": 48,
 				"MaxResourceOther": 30,
 				"MaxEquipment": 6,
-				"MaxBeer": -1,
+				"MaxBeer": 0,
 				"MaxResourceVariance": 2,
 				"RecruitGoldThreshold": 200,
 				"BlacksmithSetting": "Swords",
