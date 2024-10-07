@@ -71,7 +71,7 @@
 				"MaxStone": 45,
 				"MaxResourceOther": 10,
 				"MaxEquipment": 8,
-				"MaxBeer": -1,
+				"MaxBeer": 0,
 				"MaxResourceVariance": 4,
 				"RecruitGoldThreshold": 100,
 				"BlacksmithSetting": "Maces",
