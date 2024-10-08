@@ -2,7 +2,7 @@
 
 Dieser Mod bietet Zwölf komplett neue KIs, um für Abwechslung im Gefecht zu sorgen, jede von ihnen mit eigenem Charakter und Stil.
 
-### Neue und alt bekannte Charaktere
+### Neue und altbekannte Charaktere
 
 Mit dabei sind **Interpretationen von Historische Figuren** wie *Jeanne d'Arc*, *Guilhabert de Castres* oder *Kılıç Arslan I.*, **Bekannte Charaktere** wie *Lord Woolsack* oder das *Schlossgespenst* und **Neue Charaktere** wie der *Bandit* oder der *Dämon*.
 
