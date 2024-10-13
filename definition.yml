@@ -1,7 +1,7 @@
 name: Schlossgespenst-KI-files
 display-name: Schlossgespenst KI -files
 author: Schlossgespenst
-version: 1.0.0
+version: 1.0.1
 dependencies:
   aiSwapper: ^1.1.0
   framework: ">=3.0.0"
