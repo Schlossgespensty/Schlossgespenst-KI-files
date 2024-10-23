@@ -5,7 +5,7 @@
   "link": "None",
   "version": "1.0.0",
   "defaultLang": "de",
-  "supportedLang": ["de"],
+  "supportedLang": ["de", "en"],
   "switched": {
     "binks": true,
     "speech": true,
