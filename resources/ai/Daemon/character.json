@@ -54,7 +54,7 @@
 				"MaxPitchrigs": 2,
 				"MaxFarms": 12,
 				"BuildInterval": 2,
-				"ResourceRebuildDelay": 5,
+				"ResourceRebuildDelay": 15,
 				"MaxFood": 80,
 				"MinimumApples": 1,
 				"MinimumCheese": 0,
