@@ -187,8 +187,8 @@
 				"AttUnitSiegeDefGroupsCount": 1,
 				"AttUnitMain1": "Monk",
 				"AttUnitMain2": "Monk",
-				"AttUnitMain3": "Monk",
-				"AttUnitMain4": "Pikeman",
+				"AttUnitMain3": "Pikeman",
+				"AttUnitMain4": "None",
 				"AttMaxDefault": 0,
 				"AttMainGroupsCount": 1,
 				"TargetChoice": "Balanced"
