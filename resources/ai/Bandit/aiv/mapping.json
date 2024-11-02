@@ -1,6 +1,5 @@
 {
-  "castle_1"    : "sheriff1.aiv",
-  "castle_2"    : "sheriff2.aiv",
-  "castle_3"    : "sheriff3.aiv",
-  "castle_4"    : "sheriff4.aiv"
+  "castle_1"    : "Bandit1.aiv",
+  "castle_2"    : "Bandit2.aiv",
+  "castle_3"    : "Bandit3.aiv"
 }
