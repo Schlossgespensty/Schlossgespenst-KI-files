@@ -45,7 +45,7 @@
 				"Farm7": "None",
 				"Farm8": "None",
 				"PopulationPerFarm": 5,
-				"PopulationPerWoodcutter": 5,
+				"PopulationPerWoodcutter": 3,
 				"PopulationPerQuarry": 15,
 				"PopulationPerIronmine": 15,
 				"PopulationPerPitchrig": 0,

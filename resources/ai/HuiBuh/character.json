@@ -49,7 +49,7 @@
 				"PopulationPerQuarry": 10,
 				"PopulationPerIronmine": 12,
 				"PopulationPerPitchrig": 20,
-				"MaxQuarries": 3,
+				"MaxQuarries": 5,
 				"MaxIronmines": 5,
 				"MaxWoodcutters": 7,
 				"MaxPitchrigs": 4,
