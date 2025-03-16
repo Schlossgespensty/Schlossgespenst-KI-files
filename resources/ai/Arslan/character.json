@@ -57,7 +57,7 @@
 				"BuildInterval": 1,
 				"ResourceRebuildDelay": 20,
 				"MaxFood": 80,
-				"MinimumApples": 2,
+				"MinimumApples": -1,
 				"MinimumCheese": -1,
 				"MinimumBread": 1,
 				"MinimumWheat": 1,
@@ -71,7 +71,7 @@
 				"MaxStone": 45,
 				"MaxResourceOther": 5,
 				"MaxEquipment": 4,
-				"MaxBeer": 3,
+				"MaxBeer": 10,
 				"MaxResourceVariance": 4,
 				"RecruitGoldThreshold": 100,
 				"BlacksmithSetting": "Swords",
@@ -191,7 +191,7 @@
 				"AttUnitMain3": "None",
 				"AttUnitMain4": "None",
 				"AttMaxDefault": 400,
-				"AttMainGroupsCount": 3,
+				"AttMainGroupsCount": 2,
 				"TargetChoice": "Balanced"
   }
 }
