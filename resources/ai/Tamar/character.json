@@ -154,7 +154,7 @@
 				"AttForceSupportAllyThreshold": 50,
 				"AttForceRallyPercentage": 60,
 				"Unknown129": 100,
-				"Unknown130": 10,
+				"AttAssaultDelay": 0,
 				"AttUnitPatrolRecommandDelay": 1,
 				"Unknown132": 10,
 				"SiegeEngine1": "Catapult",
