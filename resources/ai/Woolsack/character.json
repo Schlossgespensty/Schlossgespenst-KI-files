@@ -165,7 +165,7 @@
 				"SiegeEngine6": "None",
 				"SiegeEngine7": "None",
 				"SiegeEngine8": "None",
-				"CowThrowInterval": 8,
+				"CowThrowInterval": 10,
 				"Unknown142": 0,
 				"AttMaxEngineers": 10,
 				"AttDiggingUnit": "Pikeman",
