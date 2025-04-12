@@ -103,10 +103,10 @@
 				"RecruitProbDefStrong": 10,
 				"RecruitProbRaidDefault": 20,
 				"RecruitProbRaidWeak": 0,
-				"RecruitProbRaidStrong": 20,
+				"RecruitProbRaidStrong": 25,
 				"RecruitProbAttackDefault": 60,
 				"RecruitProbAttackWeak": 50,
-				"RecruitProbAttackStrong": 70,
+				"RecruitProbAttackStrong": 65,
 				"SortieUnitRangedMin": 1,
 				"SortieUnitRanged": "EuropArcher",
 				"SortieUnitMeleeMin": 5,
@@ -130,7 +130,7 @@
 				"DefUnit7": "None",
 				"DefUnit8": "None",
 				"RaidUnitsBase": 12,
-				"RaidUnitsRandom": 0,
+				"RaidUnitsRandom": 5,
 				"RaidUnit1": "Pikeman",
 				"RaidUnit2": "Maceman",
 				"RaidUnit3": "None",
@@ -191,7 +191,7 @@
 				"AttUnitMain3": "None",
 				"AttUnitMain4": "None",
 				"AttMaxDefault": 500,
-				"AttMainGroupsCount": 1,
+				"AttMainGroupsCount": 2,
 				"TargetChoice": "Gold"
   }
 }
