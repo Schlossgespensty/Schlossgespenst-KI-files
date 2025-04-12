@@ -190,7 +190,7 @@
 				"AttUnitMain3": "None",
 				"AttUnitMain4": "None",
 				"AttMaxDefault": 400,
-				"AttMainGroupsCount": 2,
+				"AttMainGroupsCount": 1,
 				"TargetChoice": "Gold"
   }
 }
