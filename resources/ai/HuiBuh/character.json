@@ -130,7 +130,7 @@
 				"DefUnit7": "None",
 				"DefUnit8": "None",
 				"RaidUnitsBase": 20,
-				"RaidUnitsRandom": 0,
+				"RaidUnitsRandom": 5,
 				"RaidUnit1": "Pikeman",
 				"RaidUnit2": "None",
 				"RaidUnit3": "None",
